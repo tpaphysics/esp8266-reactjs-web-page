@@ -57,4 +57,4 @@ yarn build
 
 ## **📝 Licença**
 
-Este projeto está sob os termos [Apache Licence v2.0](https://www.apache.org/licenses/LICENSE-2.0)
+Este projeto está sob os termos [Apache Licence v2.0](/LICENCE)
